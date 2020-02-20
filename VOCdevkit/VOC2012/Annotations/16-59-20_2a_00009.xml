@@ -1,0 +1,20 @@
+<annotation>
+  <folder>VOC2012</folder>
+  <filename>16-59-20_2a_00009.jpg</filename>
+  <path>D:/hotel_proj_data/hotel_image/video\16-59-20_2a\16-59-20_2a_00009.jpg</path>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cola</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>4</ymin>
+      <xmax>1647</xmax>
+      <ymax>1080</ymax>
+    </bndbox>
+  </object>
+</annotation>

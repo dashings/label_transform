@@ -1,0 +1,17 @@
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00115.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00073.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00066.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00051.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00106.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00096.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00100.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00009.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00019.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00094.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00071.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00077.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00046.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00031.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00041.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00078.jpg 0,1,2,0,5
+D:\hotel_proj_data\hotel_image\video\16-59-20_2a\16-59-20_2a_00070.jpg 0,1,2,0,5
